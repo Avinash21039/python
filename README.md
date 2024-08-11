@@ -1,1 +1,1 @@
-# python[https://colab.research.google.com/drive/15uu0LaNjZPUGwLjmJFVBX6F2TwNOczjG]
+[week1][https://colab.research.google.com/drive/15uu0LaNjZPUGwLjmJFVBX6F2TwNOczjG]
